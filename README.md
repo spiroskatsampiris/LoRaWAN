@@ -1,2 +1,2 @@
 # LoRaWAN
-Machine learning Methods for Profiling LoRaWAN IoT Devices
+Exploratory Approach for Network Behavior Clustering in LoRaWAN
